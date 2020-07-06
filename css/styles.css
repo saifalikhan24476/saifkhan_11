@@ -1,0 +1,140 @@
+.button {
+  position: relative;
+  top: 400px;
+  left: 50px;
+  margin-bottom: 100px;
+}
+.bottom-button {
+  margin: 10px;
+}
+#cta {
+  text-align: center;
+  background-color: #ff4c68;
+  color: white;
+  padding: 7% 15%;
+}
+.cta-heading {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.feature-box-1 {
+  text-align: center;
+  padding: 0% 25% 0% 25%;
+}
+.feature-box-2 {
+  text-align: center;
+}
+.feature-box-3 {
+  text-align: center;
+}
+#features {
+  padding: 10% 6% 10%;
+}
+h1 {
+  position: relative;
+  top: 100px;
+  left: 100px;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+.heading {
+  position: absolute;
+  top: 50px;
+  right: 150px;
+  padding-left: 0px;
+  font-size: 50px;
+}
+
+.iphone-img {
+  width: 65%;
+  position: relative;
+  top: 150px;
+  right: 0px;
+  left: 200px;
+  margin-bottom: 150px;
+}
+.icon {
+  color: #ef8172;
+  padding-bottom: 30px;
+}
+.icon:hover {
+  color: #ff4c68;
+}
+.navbar-brand {
+  font-family: 'Baloo 2', cursive;
+  position: relative;
+  top: 25px;
+  margin-left: 50px;
+}
+.navbar-nav {
+  position: relative;
+  right: 100px;
+  top: 50px;
+  font-size: 1.4rem;
+}
+.nav-item {
+  padding: 0px 18px;
+}
+#play-button {
+  margin-left: 10px;
+  position: relative;
+  right: 160px;
+  top: 60px;
+}
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+.pricing-column {
+  padding: 3% 2%;
+}
+.para {
+  color: grey;
+}
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 40px;
+}
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.social-icon {
+  margin: 20px 10px;
+}
+#title {
+  background-color: #ff4c68;
+}
+#tindog {
+  font-size: 2.8rem;
+}
+#testimonials {
+  background-color: #ef8172;
+  text-align: center;
+  padding: 5% 15%;
+
+  color: white;
+  font-size: 1rem;
+}
+.testimonial-img {
+  width: 25%;
+  padding: 5%;
+  border-radius: 100%;
+}
+.testimonial-para {
+  font-weight: 680;
+  font-size: 3rem;
+  line-height: 1.5;
+}
